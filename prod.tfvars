@@ -1,0 +1,5 @@
+ami-type = "ami-00c39f71452c08778"
+instance_type = "t3.small"
+env = "qa"
+instance-name = "postgresql-server-dev"
+team = "prod team"
